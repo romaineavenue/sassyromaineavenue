@@ -1,27 +1,23 @@
-# Sassyromaineavenue
+# Romaine, my heart! 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-## Development server
+We all know that Romaine Avenue is the best avenue. 
+You can already tell that based on the beautiful website at 
+https://romaineavenue.github.io 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+However, Romaine Avenue is more than simply the best avenue. 
+It is also the sassiest avenue. 
 
-## Code scaffolding
+We created this project using ng cli 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can recreate it using ng cli as well 
 
-## Build
+Simply type 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+`ng new sassyromaineavenue --style=sass` 
 
-## Running unit tests
+in your terminal.  
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+So now that we have made our first change, 
+it is time to commit it and push it! 
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
